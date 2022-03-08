@@ -8,7 +8,7 @@
 <body>
 <div class="jumbotron" style="background-color:white">
       
-      <h2 class="text-center">Docker App </h2>
+      <h2 class="text-center">Docker Application </h2>
       
   </div>
 </body>
